@@ -122,7 +122,7 @@ def load_dataset(path):
 
 
 if __name__ == '__main__':
-    ANNOTATIONS_PATH = "/media/jie/Work/Public_Datasets/pano/pano_train2020.json"  # xml文件所在文件夹
+    ANNOTATIONS_PATH = "****_train2020.json"  # xml文件所在文件夹
     CLUSTERS = 9  # 聚类数量，anchor数量
     INPUTDIM = 512  # 输入网络大小
 
